@@ -1,4 +1,4 @@
-# HAProxy-Config
+# HAProxy-Config tested for version 1.8-stable
 Layer 7 Load Balancer config file for JAMF Pro
 
 located in /etc/haproxy/haproxy.cfg
